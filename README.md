@@ -1,5 +1,4 @@
-# summer-camp-ml
-Summer Camp Python
+# Summer Camp
 
 ## Objetivos
 
